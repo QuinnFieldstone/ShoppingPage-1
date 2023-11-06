@@ -1,0 +1,103 @@
+.frame {
+  background-image: url(../../../static/img/rectangle-18.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  box-shadow: 0px 4px 39px #0000000a;
+  height: 486px;
+  overflow: hidden;
+  position: relative;
+  width: 426px;
+}
+
+.frame .element {
+  height: 300px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 389px;
+}
+
+.frame .overlap-group {
+  background-image: url(../../../static/img/0-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 392px;
+  left: -41px;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.frame .cart {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  left: 412px;
+  position: absolute;
+  top: 25px;
+  width: 30px;
+}
+
+.frame .comercial-shopping {
+  height: 20px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 20px !important;
+}
+
+.frame .add-to-wish-list {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  left: 412px;
+  position: absolute;
+  top: 65px;
+  width: 30px;
+}
+
+.frame .interface-essential {
+  height: 24px !important;
+  left: 3px !important;
+  position: absolute !important;
+  top: 3px !important;
+  width: 24px !important;
+}
+
+.frame .div {
+  background-color: var(--variable-collection-light-gray);
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 392px;
+  width: 426px;
+}
+
+.frame .text-wrapper {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 230px;
+}
+
+.frame .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 138px;
+}

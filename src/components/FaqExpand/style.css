@@ -1,0 +1,72 @@
+.FAQ-expand {
+  height: 82px;
+  width: 905px;
+}
+
+.FAQ-expand .arrows-chevron-arrow {
+  height: 25px !important;
+  left: 831px !important;
+  position: absolute !important;
+  top: 29px !important;
+  width: 24px !important;
+}
+
+.FAQ-expand .p {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  width: 275px;
+}
+
+.FAQ-expand .overlap-group-2 {
+  background: linear-gradient(180deg, rgb(238, 238, 238) 0%, rgb(150, 150, 150) 100%);
+  border-radius: 20px;
+  height: 273px;
+  position: relative;
+}
+
+.FAQ-expand .arrows-chevron-arrow-right-1 {
+  height: 24px !important;
+  left: 830px !important;
+  position: absolute !important;
+  top: 30px !important;
+  width: 25px !important;
+}
+
+.FAQ-expand .text-wrapper-4 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  width: 287px;
+}
+
+.FAQ-expand .text-wrapper-5 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+  width: 806px;
+}
+
+.FAQ-expand.default {
+  background: linear-gradient(180deg, rgb(238, 238, 238) 0%, rgb(150, 150, 150) 100%);
+  border-radius: 20px;
+  position: relative;
+}

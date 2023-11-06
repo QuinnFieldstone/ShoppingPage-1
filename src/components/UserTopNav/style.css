@@ -1,0 +1,193 @@
+.user-top-nav {
+  background-image: url(../../../static/img/user-top-nav.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 140px;
+  width: 1512px;
+}
+
+.user-top-nav .overlap {
+  background-color: #eeeeee;
+  height: 140px;
+  position: relative;
+}
+
+.user-top-nav .layer {
+  height: 81px;
+  left: 100px;
+  position: absolute;
+  top: 43px;
+  width: 226px;
+}
+
+.user-top-nav .mushroom {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 74px;
+}
+
+.user-top-nav .CA-nn-AB-is {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 74px;
+}
+
+.user-top-nav .overlap-2 {
+  height: 41px;
+  left: 1382px;
+  position: absolute;
+  top: 60px;
+  width: 38px;
+}
+
+.user-top-nav .add-cart {
+  height: 30px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 11px;
+  width: 30px;
+}
+
+.user-top-nav .comercial-shopping-wrapper {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.user-top-nav .comercial-shopping-basket-2 {
+  height: 26px !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 2px !important;
+  width: 26px !important;
+}
+
+.user-top-nav .count {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 20px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.user-top-nav .text-wrapper-23 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+}
+
+.user-top-nav .search-wrapper {
+  height: 30px;
+  left: 772px;
+  position: absolute;
+  top: 71px;
+  width: 400px;
+}
+
+.user-top-nav .search {
+  height: 30px;
+  width: 402px;
+}
+
+.user-top-nav .overlap-group-4 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 30px;
+  position: relative;
+  width: 400px;
+}
+
+.user-top-nav .interface-essential-magnifier-1 {
+  height: 20px !important;
+  left: 370px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 20px !important;
+}
+
+.user-top-nav .text-wrapper-24 {
+  color: var(--variable-collection-light-gray);
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.user-top-nav .wishlist {
+  height: 30px;
+  left: 1342px;
+  position: absolute;
+  top: 71px;
+  width: 30px;
+}
+
+.user-top-nav .wish-list {
+  background-color: var(--variable-collection-primary);
+  border-radius: 10px;
+  height: 30px;
+  position: relative;
+}
+
+.user-top-nav .img {
+  height: 18px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.user-top-nav .my-account {
+  height: 30px;
+  left: 1202px;
+  position: absolute;
+  top: 71px;
+  width: 100px;
+}
+
+.user-top-nav .ellipse {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.user-top-nav .text-wrapper-25 {
+  color: #f47820;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}

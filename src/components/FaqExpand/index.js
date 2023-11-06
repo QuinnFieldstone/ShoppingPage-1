@@ -1,0 +1,1 @@
+export { FaqExpand } from "./FaqExpand";
